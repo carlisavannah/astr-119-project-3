@@ -1,0 +1,13 @@
+.fits files needed for the Jupyter notebooks can be found at:
+
+https://archive.stsci.edu/pub/hlsp/hudf12/
+
+The files needed are:
+
+	hlsp_hudf12_hst_wfc3ir_udfmain_f105w_v1.0_drz.fits
+	
+	hlsp_hudf12_hst_wfc3ir_udfmain_f125w_v1.0_drz.fits
+	
+	hlsp_hudf12_hst_wfc3ir_udfmain_f160w_v1.0_drz.fits
+	
+As for who contributed what for the coding, the timeline can be found in seperate text file named timeline_group-H.txt

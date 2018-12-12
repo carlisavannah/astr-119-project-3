@@ -1,0 +1,15 @@
+Timeline for group_H as recorded by @rojenkin;
+
+The contributions and the timeline is as follows;
+
+	All three contributors from Group_H wrote the sep tutorial and notebook for the f105w.fits source detection seperately;
+	Group_H met in person and decided to use Carli's github to host;
+	@carlisavannah uploaded her code;
+	@rojenkin added the markdown cells, comments, color class, and made minor tweaks to @carlisavannah's code per in-person discussions;
+	@carlisavannah uploaded initial code for the extra credit;
+	@rojenkin uploaded a different version of the extra credit that was later removed due to incorrect coding;
+	@The1GrayGhost made tweaks to the extra credit originally submitted by @carlisavannah;
+	@rojenkin finalized the extra credit;
+	
+There were several discussions in person amongst group_H where whoever had their laptop open wrote the code that we all discussed;
+This being stated, I would say that we all truly did work on the code together to perfect it.
